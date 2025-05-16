@@ -1,6 +1,6 @@
 # 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:
 # 👋 Hi, I'm **𝐁𝐡𝐚𝐫𝐚𝐭𝐡 𝐌𝐮𝐧𝐚𝐤𝐚𝐥𝐚!**
-
+![Profile Background](https://media.licdn.com/dms/image/v2/D5616AQGLVZGGflW9Sw/profile-displaybackgroundimage-shrink_350_1400/B56ZWJp1k2HsAY-/0/1741771202572?e=1752710400&v=beta&t=kyEHMUvYrVCf57De3IbpmnwUIZP6NAdSSzJzoG0AdLQ)
 ## **Advancing GenAI to AgenticAI. Harnessing LLMs, RAG, and Embeddings. Integrating Agentic Orchestration, Vector Databases, Tools, and Web Scraping. Intern at BuildFastWithAI. AI/ML at GIET.**
 
 
