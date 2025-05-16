@@ -5,7 +5,17 @@
 
 
 # **🌐 𝐒𝐨𝐜𝐢𝐚𝐥𝐬:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathmunakala04/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bharath_4u_Xai) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathmunakala22@gmail.com) 
+<div align="left">
+  <a href="https://linkedin.com/in/bharathmunakala04/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/Bharath_4u_Xai">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="mailto:bharathmunakala22@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo" />
+  </a>
+</div>
 
 # **💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:**
 
