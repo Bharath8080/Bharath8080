@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
 </div>
 
 ## <div align="center">🌟 About Me</div>
@@ -18,7 +18,7 @@ Passionate about integrating Agentic Orchestration, Vector Databases, Tools, and
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Bharath8080%2FBharath8080&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Bharath8080%2FBharath8080)
 </div>
 
-## <div align="center">🔗 Connect with me</div>
+## <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="30"> Connect with me</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/bharathmunakala04/" target="_blank">
