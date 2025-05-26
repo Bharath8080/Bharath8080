@@ -42,14 +42,58 @@ Passionate about integrating Agentic Orchestration, Vector Databases, Tools, and
 
 ## <div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Technologies</div>
 
-### <div align="center">Languages</div>
+### <div align="center">🧠 GenAI & LLM APIs</div>
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594A?style=for-the-badge&logo=cohere&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+</div>
+
+### <div align="center">🗄️ Vector Databases</div>
+<div align="center">
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+</div>
+
+### <div align="center">🔗 LLM Frameworks & Orchestration</div>
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crew&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-1560BD?style=for-the-badge&logo=haystack&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+</div>
+
+### <div align="center">🎨 GenAI UI Frameworks</div>
+<div align="center">
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![Reflex](https://img.shields.io/badge/Reflex-000000?style=for-the-badge&logo=reflex&logoColor=white)
+![Mesop](https://img.shields.io/badge/Mesop-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
+
+### <div align="center">💻 Programming Languages</div>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 </div>
 
-### <div align="center">AI/ML</div>
+### <div align="center">🤖 AI/ML Frameworks</div>
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -62,7 +106,7 @@ Passionate about integrating Agentic Orchestration, Vector Databases, Tools, and
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 </div>
 
-### <div align="center">Tools & Platforms</div>
+### <div align="center">🛠️ Tools & Development</div>
 <div align="center">
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -76,7 +120,7 @@ Passionate about integrating Agentic Orchestration, Vector Databases, Tools, and
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
-### <div align="center">Design & Deployment</div>
+### <div align="center">🎨 Design & Deployment</div>
 <div align="center">
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
