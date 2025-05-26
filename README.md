@@ -82,8 +82,6 @@ Passionate about integrating Agentic Orchestration, Vector Databases, Tools, and
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Chainlit](https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-000000?style=for-the-badge&logo=reflex&logoColor=white)
-![Mesop](https://img.shields.io/badge/Mesop-4285F4?style=for-the-badge&logo=google&logoColor=white)
 </div>
 
 ### <div align="center">💻 Programming Languages</div>
