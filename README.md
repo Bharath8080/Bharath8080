@@ -1,7 +1,15 @@
-# <div align="center">👋 Hi, I'm **𝐁𝐡𝐚𝐫𝐚𝐭𝐡 𝐌𝐮𝐧𝐚𝐤𝐚𝐥𝐚!**</div>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Developer+%26+GenAI+Engineer;Intern+at+BuildFastWithAI;From+GENAI+to+AgenticAI" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Bharath+Munakala;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=6FA4FC&vCenter=true&size=35&duration=4000&pause=1000">
+</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+an+AI/ML+Developer;I'm+a+GenAI+Engineer;Intern+at+BuildFastWithAI;From+GENAI+to+AgenticAI;&center=true&size=30&width=800&duration=4000&pause=1000&color=6FA4FC&background=FFFFFF00">
+  </a>
+</h1>
   <br/>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
 </div>
