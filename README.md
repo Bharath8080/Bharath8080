@@ -1,18 +1,18 @@
-
-
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Bharath+Munakala;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=6FA4FC&vCenter=true&size=35&duration=4000&pause=1000">
-</div>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Bharath+Munakala;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=6FA4FC&vCenter=true&size=35&duration=4000&pause=1000">
+  </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+an+AI/ML+Developer;I'm+a+GenAI+Engineer;Intern+at+BuildFastWithAI;From+GENAI+to+AgenticAI;&center=true&size=30&width=800&duration=4000&pause=1000&color=6FA4FC&background=FFFFFF00">
-  </a>
-</h1>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+an+AI/ML+Developer;I'm+a+GenAI+Engineer;Intern+at+BuildFastWithAI;From+GENAI+to+AgenticAI;&center=true&size=30&width=800&duration=4000&pause=1000&color=6FA4FC&background=FFFFFF00">
+    </a>
+  </h1>
+  
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+  <img src="https://github.com/Bharath8080/Bharath8080/blob/main/assets/git.jpg" width="450"/>
 </div>
+
 
 ## <div align="center">🌟 About Me</div>
 
