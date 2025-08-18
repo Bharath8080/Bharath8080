@@ -22,7 +22,6 @@ Passionate about integrating Agentic Orchestration, Vector Databases, Tools, and
 [![GitHub followers](https://img.shields.io/github/followers/Bharath8080?logo=GitHub&style=for-the-badge)](https://github.com/Bharath8080)
 [![GitHub Stars](https://img.shields.io/github/stars/Bharath8080?logo=github&style=for-the-badge)](https://github.com/Bharath8080)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Bharath8080%2FBharath8080&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Bharath8080%2FBharath8080)
-[![Repos Badge](https://badges.pufler.dev/repos/Bharath8080)](https://badges.pufler.dev)
 </div>
 
 ## <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="30"> Connect with me</div>
