@@ -52,10 +52,7 @@ Check out my pinned repos below—they showcase everything from multi-agent syst
 [LinkedIn](https://linkedin.com/in/bharathmunakala04/) • [Twitter](https://x.com/Bharath_4u_Xai) • [Email](mailto:bharathmunakala22@gmail.com)
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=Bharath8080&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath8080&theme=dark&hide_border=true&layout=compact)
-
+<!-- 🌌 Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0CF2FF,100:6A5ACD&height=120&section=footer&animation=fadeIn" />
 </p>
