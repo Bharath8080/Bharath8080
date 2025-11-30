@@ -13,14 +13,24 @@
 I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.  
 I build things that **think**, **reason**, and **interact** — from voice agents to multi-agent systems and production-ready RAG pipelines.  
 
-I’ve interned at **BuildFastWithAI** and **Two.ai (multilingual LLMs)**, contributing AI repositories and building AI tools that actually work.  
+I’ve interned at **BuildFastWithAI** and **[Two.ai (multilingual LLMs)](https://www.two.ai/sutra)**, contributing **[AI repositories](https://github.com/sutra-dev/sutra-cookbook)** and building AI tools that actually work.  
 
 Check out my pinned repos for **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps**.  
 Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
-<div align="center">
+---
+
+### 💼 Professional Experience
+
+**AI Intern – GenAI Focus | Build Fast with AI**  
+Served as DevRel support for Two.ai’s multilingual LLM, SUTRA, increasing community engagement by 40% through strategic promotion. Built and deployed 15+ starter applications and created 35+ integration guides demonstrating SUTRA’s capabilities with LangChain, LlamaIndex, and Streamlit.
+
+**AI/ML Developer Intern | AIMERS (AI Medical & Engineering Researchers Society)**  
+🏆 Achievement: Recognized in the Top 3% of Interns with an official Appreciation Letter.
 
 ---
+
+<div align="center">
 
 <table>
   <tr>
@@ -72,17 +82,15 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
 </table>
 
----
-
 </div>
 
-
+---
 
 ### Fun Facts
-- Passionate about **agentic AI workflows**  
-- Integrating **web scraping + LLMs** for smarter agents  
-- From **Srikakulam, Andhra Pradesh**  
-- **Currently exploring:** advanced prompt engineering & multi-agent orchestration  
+- 🏏 **Playing Cricket**
+- 🏋️ **Gym**
+- 🎧 **Music**
+- 🤖 **Exploring AI Tech**
 
 ### 📬 Connect
 
