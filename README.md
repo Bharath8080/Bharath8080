@@ -14,7 +14,7 @@
 </div>
 
 
-### Hey there! 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm [**Bharath Munakala**](https://linkedin.com/in/bharathmunakala04/), an AI/ML developer and GenAI engineer based in India.
 
