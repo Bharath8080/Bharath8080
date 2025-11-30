@@ -54,13 +54,5 @@ Check out my pinned repos below—they showcase everything from multi-agent syst
 ---
 <!-- 🌌 Ultra-Slim Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0CF2FF,100:6A5ACD&height=2&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting+🚀;Keep+Building.+Keep+Innovating.+✨;Made+with+❤️+by+Bharath+Munakala" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0CF2FF,100:6A5ACD&height=70&section=footer" />
 </p>
