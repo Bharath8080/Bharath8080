@@ -38,6 +38,9 @@ Check out my pinned repos below—they showcase everything from multi-agent syst
   </tr>
 </table>
 
+### Skills
+
+![SkillIcons](https://skillicons.dev/icons?i=python,fastapi,flask,docker)
 
 
 #### Fun Facts:
