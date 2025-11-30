@@ -50,7 +50,7 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
         <tr>
           <td><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=css" width="45"/></td>
-          <td><img src="httpsillicons.dev/icons?i=sklearn" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=opencv" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></td>
