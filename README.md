@@ -11,20 +11,16 @@
 
 </div>
 
-
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.  
+I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**. 
+AI/ML developer exploring how GenAI evolves into Agentic AI.
+I build things that think, reason, and interact.
+I’ve interned at BuildFastWithAI and Two.ai (multilingual LLMs).
+I build AI tools that actually work in production.
+Check out my pinned repos for multi-agent systems, RAG pipelines, and voice agents.
+Curious 🤓, experimental 🧪, and excited to collaborate 🤝.
 
-I build things that *think*, *reason*, and *interact* — from voice agents to multi-agent systems and production-ready RAG pipelines.  
-
-I’ve interned at **BuildFastWithAI** and **Two.ai** (multilingual LLMs), contributing AI repositories and building AI tools that actually work.  
-
-Check out my pinned repos to see **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps** in action.  
-
-Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
-
-### 🛠️ Skills & AI Frameworks
 
 <div align="center">
 
