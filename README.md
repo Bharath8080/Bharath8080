@@ -18,9 +18,7 @@ I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI
 
 I build things that *think*, *reason*, and *interact* — from voice agents to multi-agent systems and production-ready RAG pipelines.  
 
-I work with **LangChain, LangGraph, LlamaIndex, CrewAI, Agno, AutoGen, SmolAgents, FastAPI, Flask, Streamlit**, and **VectorDBs** like Chroma, FAISS, Pinecone, and Qdrant.  
-
-I’ve interned at **BuildFastWithAI** and **Two.ai** (multilingual LLMs), contributing to 100+ AI repositories and building AI tools that actually work.  
+I’ve interned at **BuildFastWithAI** and **Two.ai** (multilingual LLMs), contributing AI repositories and building AI tools that actually work.  
 
 Check out my pinned repos to see **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps** in action.  
 
