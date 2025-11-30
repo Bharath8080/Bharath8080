@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=Hi+I'm+Bharath+Munakala;Welcome+to+my+GitHub!"/>
 
   <!-- Role Summary -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;GenAI+Engineer;Intern+at+BuildFastWithAI;Agentic+AI+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;GenAI+Engineer;Ex-+Intern+at+BuildFastWithAI;Agentic+AI+Enthusiast"/>
 
 </div>
 
