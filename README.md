@@ -14,27 +14,17 @@
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.
+I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.  
 
-I build things that *think*, *reason*, and *interact* — from voice agents to multi-agent systems and production-ready RAG pipelines.
+I build things that *think*, *reason*, and *interact* — from voice agents to multi-agent systems and production-ready RAG pipelines.  
 
----
+I work with **LangChain, LangGraph, LlamaIndex, CrewAI, Agno, AutoGen, SmolAgents, FastAPI, Flask, Streamlit**, and **VectorDBs** like Chroma, FAISS, Pinecone, and Qdrant.  
 
-## 🔧 What I Work On
+I’ve interned at **BuildFastWithAI** and **Two.ai** (multilingual LLMs), contributing to 100+ AI repositories and building AI tools that actually work.  
 
-* **Agentic AI** → LangChain, LangGraph, LlamaIndex, CrewAI, Agno, AutoGen, SmolAgents
-* **RAG Systems** → Hybrid RAG, Graph RAG, Agentic RAG
-* **Voice AI Agents** → Gemini LiveAPI, Groq Whisper, Neural TTS, real-time Streamlit/Chainlit UIs
-* **Backend & Tools** → FastAPI, Flask, Streamlit, VectorDBs (Chroma, FAISS, Pinecone, Qdrant)
+Check out my pinned repos to see **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps** in action.  
 
----
-
-## 🚀 Experience
-
-* **Developer Relations Intern** @ BuildFastWithAI
-* **Developer Relations (Multilingual LLMs)** @ Two.ai (SUTRA Model)
-* Studying **AI & ML @ GIET**
-
+Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 ---
 ### ⚙️ Frameworks
 
