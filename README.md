@@ -26,40 +26,41 @@ Check out my pinned repos below—they showcase everything from multi-agent syst
 
 ## 🧠 GenAI Stack
 
-<!-- === LLMs === -->
+<!-- LLMs -->
 ### 🔥 LLMs  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/163194759?s=200&v=4" alt="Anthropic Claude" width="55"/>
-&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Google_Gemini_Logo.svg" alt="Gemini" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/170062306?s=200&v=4" alt="Mistral AI" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/138949848?s=200&v=4" alt="Groq" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/163194759?s=200&v=4" alt="Claude" width="45"/>
+&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Google_Gemini_Logo.svg" alt="Gemini" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/170062306?s=200&v=4" alt="Mistral" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/138949848?s=200&v=4" alt="Groq" width="45"/>
 
 <br/><br/>
 
-<!-- === Frameworks === -->
+<!-- Frameworks -->
 ### ⚙️ Frameworks  
-<img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.png" alt="LangChain" width="55"/>
-&nbsp;<img src="https://raw.githubusercontent.com/run-llama/logos/main/LlamaIndex%20-%20Icon%20-%20Blue.svg" alt="LlamaIndex" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/159353251?s=200&v=4" alt="CrewAI" width="55"/>
-&nbsp;<img src="https://raw.githubusercontent.com/microsoft/autogen/main/docs/_static/autogen_logo.png" alt="AutoGen" width="55"/>
+<img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.png" alt="LangChain" width="45"/>
+&nbsp;<img src="https://raw.githubusercontent.com/run-llama/logos/main/LlamaIndex%20-%20Icon%20-%20Blue.svg" alt="LlamaIndex" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/159353251?s=200&v=4" alt="CrewAI" width="45"/>
+&nbsp;<img src="https://raw.githubusercontent.com/microsoft/autogen/main/docs/_static/autogen_logo.png" alt="AutoGen" width="45"/>
 
 <br/><br/>
 
-<!-- === Vector Databases === -->
+<!-- Vector DBs -->
 ### 🗃️ Vector Databases  
-<img src="https://avatars.githubusercontent.com/u/76811666?s=200&v=4" alt="Pinecone" width="55"/>
-&nbsp;<img src="https://raw.githubusercontent.com/facebookresearch/faiss/master/website/static/img/logo.png" alt="FAISS" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/127154023?s=200&v=4" alt="ChromaDB" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/114772303?s=200&v=4" alt="Qdrant" width="55"/>
+<img src="https://avatars.githubusercontent.com/u/76811666?s=200&v=4" alt="Pinecone" width="45"/>
+&nbsp;<img src="https://raw.githubusercontent.com/facebookresearch/faiss/master/website/static/img/logo.png" alt="FAISS" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/127154023?s=200&v=4" alt="ChromaDB" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/114772303?s=200&v=4" alt="Qdrant" width="45"/>
 
 <br/><br/>
 
-<!-- === Tools === -->
+<!-- Tools -->
 ### 🧰 Tools  
-<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA1127-seeklogo.com.png" alt="FastAPI" width="55"/>
-&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="55"/>
-&nbsp;<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="55"/>
-&nbsp;<img src="https://avatars.githubusercontent.com/u/129018167?s=200&v=4" alt="Chainlit" width="55"/>
+<img src="https://seeklogo.com/images/F/fastapi-logo-541BAA1127-seeklogo.com.png" alt="FastAPI" width="45"/>
+&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="45"/>
+&nbsp;<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="45"/>
+&nbsp;<img src="https://avatars.githubusercontent.com/u/129018167?s=200&v=4" alt="Chainlit" width="45"/>
+
 
 
 
