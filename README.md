@@ -10,7 +10,7 @@
   </h1>
   
   <br/>
-  <img src="https://github.com/Bharath8080/Bharath8080/blob/main/assets/git.jpg" width="450"/>
+ 
 </div>
 
 
