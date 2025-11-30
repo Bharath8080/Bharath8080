@@ -1,18 +1,12 @@
 <div align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!+I'm+Bharath+Munakala;Welcome+to+my+GitHub+Profile!&font=Architects+Daughter&center=true&width=650&height=120&color=6FA4FC&vCenter=true&size=35&duration=4000&pause=1000">
-  </div>
 
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+an+AI/ML+Developer;I'm+a+GenAI+Engineer;Intern+at+BuildFastWithAI;From+GENAI+to+AgenticAI;&center=true&size=30&width=800&duration=4000&pause=1000&color=6FA4FC&background=FFFFFF00">
-    </a>
-  </h1>
-  
-  <br/>
- 
+  <!-- Simple Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=Hi+I'm+Bharath+Munakala;Welcome+to+my+GitHub!"/>
+
+  <!-- Short Role Summary -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;GenAI+Engineer;Intern+at+BuildFastWithAI;Agentic+AI+Enthusiast"/>
+
 </div>
-
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
