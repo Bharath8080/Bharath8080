@@ -1,12 +1,16 @@
 <div align="center">
 
+  <!-- Right-side coder GIF -->
+  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
+
   <!-- Simple Typing Intro -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=32&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=Hi+I'm+Bharath+Munakala;Welcome+to+my+GitHub!"/>
 
-  <!-- Short Role Summary -->
+  <!-- Role Summary -->
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=800&color=6FA4FC&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;GenAI+Engineer;Intern+at+BuildFastWithAI;Agentic+AI+Enthusiast"/>
 
 </div>
+
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
