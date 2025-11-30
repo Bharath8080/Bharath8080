@@ -23,23 +23,45 @@ I’ve interned at **BuildFastWithAI** and **Two.ai** (multilingual LLMs), contr
 Check out my pinned repos to see **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps** in action.  
 
 Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
----
-### ⚙️ Frameworks
+### 🛠️ Skills & AI Frameworks
+
+<div align="center">
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" width="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/llamaindex.png" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" width="50"/></td>
-    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" width="40"/></td>
+    <th>Category</th>
+    <th>Technologies</th>
   </tr>
+
+  <!-- Skills Row -->
+  <tr>
+    <td><b>Skills</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,git,github" />
+    </td>
+  </tr>
+
+  <!-- Frameworks Row -->
+  <tr>
+    <td><b>AI & Agentic Frameworks</b></td>
+    <td>
+      <table>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" width="45"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/llamaindex.png" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" width="45"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" width="40"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
 </table>
 
-### Skills
+</div>
 
-![SkillIcons](https://skillicons.dev/icons?i=python,fastapi,flask,docker,git,github)
 
 #### Fun Facts:
 * I'm passionate about agentic AI workflows
@@ -47,8 +69,22 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 * From Srikakulam, Andhra Pradesh
 * **Currently exploring:** Advanced prompt engineering and multi-agent orchestration
 
-#### Connect:
-[LinkedIn](https://linkedin.com/in/bharathmunakala04/) • [Twitter](https://x.com/Bharath_4u_Xai) • [Email](mailto:bharathmunakala22@gmail.com)
+### 📬 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/bharathmunakala04/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Bharath_4u_Xai">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bharathmunakala22@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
+
 
 ---
 <!-- 🌌 Ultra-Slim Futuristic Footer -->
