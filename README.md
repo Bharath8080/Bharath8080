@@ -27,25 +27,15 @@ Check out my pinned repos below—they showcase everything from multi-agent syst
 
 ### ⚙️ Frameworks
 
-<div style="white-space: nowrap;">
-
-  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" 
-       alt="LangChain" width="55" style="display:inline-block;"/>
-       
-  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" 
-       alt="LangGraph" width="55" style="display:inline-block;"/>
-       
-  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" 
-       alt="CrewAI" width="55" style="display:inline-block;"/>
-       
-  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" 
-       alt="Agno" width="55" style="display:inline-block;"/>
-       
-  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" 
-       alt="Agent Development Kit" width="55" style="display:inline-block;"/>
-
-</div>
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" width="55"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" width="55"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" width="55"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" width="55"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" width="55"/></td>
+  </tr>
+</table>
 
 
 
