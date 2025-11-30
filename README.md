@@ -13,7 +13,7 @@
 I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.  
 I build things that **think**, **reason**, and **interact** — from voice agents to multi-agent systems and production-ready RAG pipelines.  
 
-I’ve interned at **BuildFastWithAI** and **[Two.ai (multilingual LLMs)](https://www.two.ai/sutra)**, contributing **[AI repositories](https://github.com/sutra-dev/sutra-cookbook)** and building AI tools that actually work.  
+I’ve interned at **[BuildFastWithAI](https://www.buildfastwithai.com/)** and **[Two.ai (multilingual LLMs)](https://www.two.ai/sutra)**, contributing **[AI repositories](https://github.com/sutra-dev/sutra-cookbook)** and building AI tools that actually work.  
 
 Check out my pinned repos for **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps**.  
 Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
