@@ -30,6 +30,7 @@ Check out my pinned repos below—they showcase everything from multi-agent syst
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" width="55"/></td>
+    <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/llamaindex.png" width="55"/></td>
     <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" width="55"/></td>
     <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" width="55"/></td>
     <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" width="55"/></td>
