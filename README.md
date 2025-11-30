@@ -23,6 +23,7 @@ I’ve interned at **BuildFastWithAI** and **Two.ai** (multilingual LLMs), contr
 Check out my pinned repos to see **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps** in action.  
 
 Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
+
 ### 🛠️ Skills & AI Frameworks
 
 <div align="center">
@@ -35,15 +36,32 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
   <!-- Skills Row -->
   <tr>
-    <td><b>Skills</b></td>
+    <td align="center" valign="middle"><b>Skills</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,git,github" />
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=flask" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=docker" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=github" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=css" width="45"/></td>
+          <td><img src="httpsillicons.dev/icons?i=sklearn" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=opencv" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
 
   <!-- Frameworks Row -->
   <tr>
-    <td><b>AI & Agentic Frameworks</b></td>
+    <td align="center" valign="middle"><b>AI & Agentic Frameworks</b></td>
     <td>
       <table>
         <tr>
@@ -54,6 +72,11 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
           <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" width="40"/></td>
           <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" width="40"/></td>
         </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/chainlit.png" width="45"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/gradio.png" width="45"/></td>
+          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/streamlit.png" width="45"/></td>
+        </tr>
       </table>
     </td>
   </tr>
@@ -61,7 +84,6 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 </table>
 
 </div>
-
 
 #### Fun Facts:
 * I'm passionate about agentic AI workflows
