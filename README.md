@@ -25,6 +25,13 @@ I'm currently interning at BuildFastWithAI, where I'm pushing the boundaries fro
 Check out my pinned repos below—they showcase everything from multi-agent systems to custom RAG pipelines.
 
 
+### ⚙️ Frameworks
+
+<img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" alt="LangChain" width="55"/>
+&nbsp;<img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" alt="LangGraph" width="55"/>
+&nbsp;<img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" alt="CrewAI" width="55"/>
+&nbsp;<img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" alt="Agno" width="55"/>
+&nbsp;<img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" alt="Agent Development Kit" width="55"/>
 
 
 
