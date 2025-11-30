@@ -14,17 +14,28 @@
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Bharath Munakala**](https://linkedin.com/in/bharathmunakala04/), an AI/ML developer and GenAI engineer based in India.
+I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.
 
-I build AI-powered applications that solve real problems. From agentic orchestration to vector databases, if I can imagine it with LLMs, I'll build it and ship it.
+I build things that *think*, *reason*, and *interact* — from voice agents to multi-agent systems and production-ready RAG pipelines.
 
-My main tech stack is Python, LangChain, RAG systems, and Streamlit. My favorite tools are VSCode, Jupyter, and whatever LLM API gets the job done fastest.
+---
 
-I'm currently interning at BuildFastWithAI, where I'm pushing the boundaries from GenAI to AgenticAI.
+## 🔧 What I Work On
 
-Check out my pinned repos below—they showcase everything from multi-agent systems to custom RAG pipelines.
+* **Agentic AI** → LangChain, LangGraph, LlamaIndex, CrewAI, Agno, AutoGen, SmolAgents
+* **RAG Systems** → Hybrid RAG, Graph RAG, Agentic RAG
+* **Voice AI Agents** → Gemini LiveAPI, Groq Whisper, Neural TTS, real-time Streamlit/Chainlit UIs
+* **Backend & Tools** → FastAPI, Flask, Streamlit, VectorDBs (Chroma, FAISS, Pinecone, Qdrant)
 
+---
 
+## 🚀 Experience
+
+* **Developer Relations Intern** @ BuildFastWithAI
+* **Developer Relations (Multilingual LLMs)** @ Two.ai (SUTRA Model)
+* Studying **AI & ML @ GIET**
+
+---
 ### ⚙️ Frameworks
 
 <table>
