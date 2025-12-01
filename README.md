@@ -24,11 +24,12 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
 ### 💼 Professional Experience
 
-**AI Intern – GenAI Focus | Build Fast with AI**  
-Served as DevRel support for Two.ai’s multilingual LLM, SUTRA, increasing community engagement by 40% through strategic promotion. Built and deployed 15+ starter applications and created 35+ integration guides demonstrating SUTRA’s capabilities with LangChain, LlamaIndex, and Streamlit.
+**AI Intern – GenAI Focus | Build Fast with AI**
+* Served as DevRel support for Two.ai's multilingual LLM, SUTRA, increasing community engagement by 40% through strategic promotion.
+* Built and deployed 15+ starter applications and created 35+ integration guides demonstrating SUTRA's capabilities with LangChain, LlamaIndex, and Streamlit.
 
-**AI/ML Developer Intern | AIMERS (AI Medical & Engineering Researchers Society)**  
-🏆 Achievement: Recognized in the Top 3% of Interns with an official Appreciation Letter.
+**AI/ML Developer Intern | AIMERS (AI Medical & Engineering Researchers Society)**
+* 🏆 Recognized in the Top 3% of Interns with an official Appreciation Letter.
 
 ---
 
