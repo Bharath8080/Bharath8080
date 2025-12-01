@@ -10,12 +10,14 @@
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.  
-I build things that **think**, **reason**, and **interact** — from voice agents to multi-agent systems and production-ready RAG pipelines.  
+I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how **GenAI evolves into Agentic AI**.
 
-I’ve interned at **[BuildFastWithAI](https://www.buildfastwithai.com/)** and **[Two.ai (multilingual LLMs)](https://www.two.ai/sutra)**, contributing **[AI repositories](https://github.com/sutra-dev/sutra-cookbook)** and building AI tools that actually work.  
+I build things that **think**, **reason**, and **interact** — from voice agents to multi-agent systems and production-ready RAG pipelines.
 
-Check out my pinned repos for **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps**.  
+I've interned at **[BuildFastWithAI](https://www.buildfastwithai.com/)** and **[Two.ai (multilingual LLMs)](https://www.two.ai/sutra)**, contributing **[AI repositories](https://github.com/sutra-dev/sutra-cookbook)** and building AI tools that actually work.
+
+Check out my pinned repos for **multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps**.
+
 Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
 ---
@@ -86,11 +88,12 @@ Served as DevRel support for Two.ai’s multilingual LLM, SUTRA, increasing comm
 
 ---
 
-### Fun Facts
-- 🏏 **Playing Cricket**
-- 🏋️ **Gym**
-- 🎧 **Music**
-- 🤖 **Exploring AI Tech**
+
+#### Fun Facts:
+* Playing Cricket 🏏
+* Hitting the Gym 🏋️
+* Listening to Music 🎧
+* Exploring AI Tech 🤖
 
 ### 📬 Connect
 
