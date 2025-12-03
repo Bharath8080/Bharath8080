@@ -24,6 +24,8 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
 ### 💼 Professional Experience
 
+<img align="right" src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/catcode.gif" width="200"/>
+
 *AI Intern – GenAI Focus | Build Fast with AI*
 * Served as DevRel support for Two.ai's multilingual LLM, SUTRA, increasing community engagement by 40% through strategic promotion.
 * Built and deployed 15+ starter applications and created 35+ integration guides demonstrating SUTRA's capabilities with LangChain, LlamaIndex, and Streamlit.
