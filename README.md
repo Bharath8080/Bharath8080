@@ -8,88 +8,28 @@
 
 </div>
 
-### 👨‍💻 ABOUT ME & EXPERIENCE
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **[Bharath Munakala](https://linkedin.com/in/bharathmunakala04/)** — an AI/ML developer exploring how *GenAI evolves into Agentic AI*.
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Bharath Munakala"
-        self.role = "AI/ML Developer"
-        self.location = "Srikakulam, India"
-        self.education = "B.Tech Student"
-        
-        self.expertise = [
-            "GenAI Engineering",
-            "Agentic AI Systems",
-            "Production RAG Pipelines",
-            "Voice AI Agents"
-        ]
-        
-        self.current_focus = [
-            "Multi-agent systems",
-            "Building AI that reasons",
-            "Production deployments"
-        ]
-        
-        self.interests = [
-            "Cricket 🏏",
-            "Gym 🏋️",
-            "Music 🎧",
-            "AI Innovation 🤖"
-        ]
-        
-        self.philosophy = """
-        Build, Deploy, Iterate
-        — Not just Learn
-        """
-```
+I build things that *think, **reason, and **interact* — from voice agents to multi-agent systems and production-ready RAG pipelines.
 
-</td>
-<td width="50%" valign="top">
+I've interned at **[BuildFastWithAI](https://www.buildfastwithai.com/)** and **[Two.ai (multilingual LLMs)](https://www.two.ai/sutra)**, contributing **[AI repositories](https://github.com/sutra-dev/sutra-cookbook)** and building AI tools that actually work.
 
-```python
-class Experience:
-    def __init__(self):
-        self.work_history = []
-        
-    def buildfastwithai(self):
-        return {
-            "role": "AI Intern - GenAI Focus",
-            "company": "BuildFastWithAI",
-            "achievements": [
-                "DevRel for Two.ai's SUTRA LLM",
-                "Community engagement +40%",
-                "Built 15+ starter apps",
-                "Created 35+ integration guides",
-                "LangChain, LlamaIndex, Streamlit"
-            ]
-        }
-    
-    def aimers(self):
-        return {
-            "role": "AI/ML Developer Intern",
-            "company": "AIMERS Society",
-            "recognition": "Top 3% of Interns 🏆",
-            "achievement": "Official Appreciation"
-        }
-    
-    def get_impact(self):
-        return {
-            "apps_deployed": "15+",
-            "guides_created": "35+",
-            "community_growth": "+40%"
-        }
-```
+Check out my pinned repos for *multi-agent systems, custom RAG pipelines, voice AI agents, and LLM-powered apps*.
 
-</td>
-</tr>
-</table>
+Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
-💡 I don't just learn AI — I **build it**, **deploy it**, and make it **work in production**.
+---
+
+### 💼 Professional Experience
+
+*AI Intern – GenAI Focus | Build Fast with AI*
+* Served as DevRel support for Two.ai's multilingual LLM, SUTRA, increasing community engagement by 40% through strategic promotion.
+* Built and deployed 15+ starter applications and created 35+ integration guides demonstrating SUTRA's capabilities with LangChain, LlamaIndex, and Streamlit.
+
+*AI/ML Developer Intern | AIMERS (AI Medical & Engineering Researchers Society)*
+* 🏆 Recognized in the Top 3% of Interns with an official Appreciation Letter.
 
 ---
 
@@ -125,7 +65,7 @@ class Experience:
 
 #### Fun Facts:
 * Playing Cricket 🏏
-* Hitting the Gym 🏋️
+* Hitting the Gym 🏋
 * Listening to Music 🎧
 * Exploring AI Tech 🤖
 
