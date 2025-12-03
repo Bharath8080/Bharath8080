@@ -62,12 +62,29 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 </div>
 
 ---
+### 🎯 Fun Facts
 
-#### Fun Facts:
-* Playing Cricket 🏏
-* Hitting the Gym 🏋
-* Listening to Music 🎧
-* Exploring AI Tech 🤖
+```python
+class WhenNotCoding:
+    def __init__(self):
+        self.hobbies = {
+            "sports": "Playing Cricket 🏏",
+            "fitness": "Hitting the Gym 🏋️",
+            "music": "Listening to Music 🎧",
+            "passion": "Exploring AI Tech 🤖"
+        }
+    
+    def daily_balance(self):
+        return [
+            "Morning: Gym session 💪",
+            "Day: Build AI solutions 🤖",
+            "Evening: Cricket with friends 🏏",
+            "Night: Music & code 🎧💻"
+        ]
+    
+    def life_motto(self):
+        return "Code hard, play harder!"
+```
 
 ### 📬 Connect
 
