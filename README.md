@@ -33,62 +33,35 @@ Curious 🤓, experimental 🧪, and always excited to collaborate 🤝.
 
 ---
 
-<div align="center">
+### :hammer_and_wrench: Core Tech Stack
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
+<div>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
+</div>
 
-  <!-- Skills Row -->
-  <tr>
-    <td align="center" valign="middle"><b>Skills</b></td>
-    <td>
-      <table>
-        <tr>
-          <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=flask" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=docker" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=github" width="45"/></td>
-        </tr>
-        <tr>
-          <td><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=css" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=opencv" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+### 🤖 AI & Agentic Frameworks
 
-  <!-- Frameworks Row -->
-  <tr>
-    <td align="center" valign="middle"><b>AI & Agentic Frameworks</b></td>
-    <td>
-      <table>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" width="45"/></td>
-          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/llamaindex.png" width="40"/></td>
-          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" width="45"/></td>
-          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" width="40"/></td>
-          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" width="40"/></td>
-          <td><img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" width="40"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-
-</table>
-
+<div>
+  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langchain.png" title="LangChain" alt="LangChain" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/llamaindex.png" title="LlamaIndex" alt="LlamaIndex" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/langgraph.png" title="LangGraph" alt="LangGraph" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/crewai.png" title="CrewAI" alt="CrewAI" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agno.png" title="Agno" alt="Agno" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Bharath8080/Bharath8080/main/logos/agent-development-kit.png" title="Agent Development Kit" alt="Agent Development Kit" width="40" height="40"/>
 </div>
 
 ---
-
 
 #### Fun Facts:
 * Playing Cricket 🏏
